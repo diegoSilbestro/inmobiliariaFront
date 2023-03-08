@@ -1,0 +1,28 @@
+#container{
+    height: 70vh;
+    background-color: rgba(170, 234, 234, 0.882);
+}
+#head{
+    background-color: rgba(255, 255, 255, 0.426);
+    width: 100%;
+    left: 0px;
+    top: 50%;
+} 
+
+h1 h2 h6{
+    font-family: 'Dosis', sans-serif;
+}
+
+#img1{
+    min-width: 1000px;
+}
+@media (max-width: 800px) {
+    #head{
+        top: 20%;
+    }
+}
+@media (max-width: 400px) {
+    #head{
+        top: 10%;
+    }
+}

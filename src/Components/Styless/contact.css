@@ -1,0 +1,32 @@
+
+#fromContainer{
+    max-width: 700px !important;
+}
+#container2{
+    top:25%;
+    background-color: rgba(255, 255, 255, 0.636);
+    font-family: 'Dosis', sans-serif;
+    margin-right: 0;
+}
+form{
+    font-size: 1.5rem;
+}
+#btn{
+    font-size: 1.5rem;
+    background-color: rgb(112, 153, 219);
+}
+
+#img{
+    min-width: 1000px;
+}
+
+#whatsappIcon{
+    background-color: rgba(47, 120, 184, 0);
+    border: 0;
+}
+
+@media (max-width: 800px) {
+    #container2{
+        top: 0;
+    }
+}

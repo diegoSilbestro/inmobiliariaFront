@@ -1,0 +1,33 @@
+#nav{
+    background-color: rgb(168, 183, 207) !important;
+    margin-top: 1rem;
+    font-family: 'Dosis', sans-serif;
+    font-size: 1.5rem;
+}
+
+#navCont{
+    margin-right: 0;
+}
+
+#navbarSupportedContent {
+    transition: height 0.3s linear !important;
+    align-items: center;  
+    margin: 0 auto;
+}
+
+ul.navbar-nav.me-auto.mb-2.mb-lg-0{
+    margin: 0 auto;
+}
+
+.container-fluid:first-child{
+    margin-right: 4rem;
+}
+
+#navlink{
+    color: rgb(11, 31, 97);
+}
+
+#navlink:hover{
+    text-shadow: 2px 2px 2px rgb(240, 230, 230) !important;
+}
+
